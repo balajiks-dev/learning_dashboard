@@ -1,0 +1,392 @@
+{
+  "1": [
+    {
+      "id": 1001,
+      "title": "Introduction",
+      "order": 1,
+      "completed": true
+    },
+    {
+      "id": 1002,
+      "title": "Variables & Data Types",
+      "order": 2,
+      "completed": true
+    },
+    {
+      "id": 1003,
+      "title": "Operators",
+      "order": 3,
+      "completed": true
+    },
+    {
+      "id": 1004,
+      "title": "Strings",
+      "order": 4,
+      "completed": true
+    },
+    {
+      "id": 1005,
+      "title": "Lists & Tuples",
+      "order": 5,
+      "completed": true
+    },
+    {
+      "id": 1006,
+      "title": "Dictionaries & Sets",
+      "order": 6,
+      "completed": true
+    },
+    {
+      "id": 1007,
+      "title": "Control Flow",
+      "order": 7,
+      "completed": true
+    },
+    {
+      "id": 1008,
+      "title": "Loops",
+      "order": 8,
+      "completed": true
+    },
+    {
+      "id": 1009,
+      "title": "Functions",
+      "order": 9,
+      "completed": true
+    },
+    {
+      "id": 1010,
+      "title": "Modules & Packages",
+      "order": 10,
+      "completed": true
+    },
+    {
+      "id": 1011,
+      "title": "File Handling",
+      "order": 11,
+      "completed": true
+    },
+    {
+      "id": 1012,
+      "title": "Exceptions",
+      "order": 12,
+      "completed": true
+    },
+    {
+      "id": 1013,
+      "title": "OOP",
+      "order": 13,
+      "completed": true
+    },
+    {
+      "id": 1014,
+      "title": "Inheritance",
+      "order": 14,
+      "completed": false
+    },
+    {
+      "id": 1015,
+      "title": "Iterators & Generators",
+      "order": 15,
+      "completed": false
+    },
+    {
+      "id": 1016,
+      "title": "Decorators",
+      "order": 16,
+      "completed": false
+    },
+    {
+      "id": 1017,
+      "title": "Virtual Environments",
+      "order": 17,
+      "completed": false
+    },
+    {
+      "id": 1018,
+      "title": "Testing with pytest",
+      "order": 18,
+      "completed": false
+    },
+    {
+      "id": 1019,
+      "title": "Async Basics",
+      "order": 19,
+      "completed": false
+    },
+    {
+      "id": 1020,
+      "title": "Final Project",
+      "order": 20,
+      "completed": false
+    }
+  ],
+  "2": [
+    {
+      "id": 2001,
+      "title": "What is Generative AI",
+      "order": 1,
+      "completed": true
+    },
+    {
+      "id": 2002,
+      "title": "History of Language Models",
+      "order": 2,
+      "completed": true
+    },
+    {
+      "id": 2003,
+      "title": "Tokens & Embeddings",
+      "order": 3,
+      "completed": true
+    },
+    {
+      "id": 2004,
+      "title": "Transformer Architecture",
+      "order": 4,
+      "completed": true
+    },
+    {
+      "id": 2005,
+      "title": "Attention Mechanism",
+      "order": 5,
+      "completed": true
+    },
+    {
+      "id": 2006,
+      "title": "Prompt Engineering",
+      "order": 6,
+      "completed": true
+    },
+    {
+      "id": 2007,
+      "title": "Few-shot Prompting",
+      "order": 7,
+      "completed": false
+    },
+    {
+      "id": 2008,
+      "title": "Retrieval-Augmented Generation",
+      "order": 8,
+      "completed": false
+    },
+    {
+      "id": 2009,
+      "title": "Vector Databases",
+      "order": 9,
+      "completed": false
+    },
+    {
+      "id": 2010,
+      "title": "Fine-tuning",
+      "order": 10,
+      "completed": false
+    },
+    {
+      "id": 2011,
+      "title": "Evaluating Model Output",
+      "order": 11,
+      "completed": false
+    },
+    {
+      "id": 2012,
+      "title": "Tool Use & Agents",
+      "order": 12,
+      "completed": false
+    },
+    {
+      "id": 2013,
+      "title": "Image Generation",
+      "order": 13,
+      "completed": false
+    },
+    {
+      "id": 2014,
+      "title": "Safety & Alignment",
+      "order": 14,
+      "completed": false
+    },
+    {
+      "id": 2015,
+      "title": "Deploying AI Apps",
+      "order": 15,
+      "completed": false
+    },
+    {
+      "id": 2016,
+      "title": "Capstone",
+      "order": 16,
+      "completed": false
+    }
+  ],
+  "3": [
+    {
+      "id": 3001,
+      "title": "How the Web Works",
+      "order": 1,
+      "completed": true
+    },
+    {
+      "id": 3002,
+      "title": "HTML Fundamentals",
+      "order": 2,
+      "completed": true
+    },
+    {
+      "id": 3003,
+      "title": "CSS Fundamentals",
+      "order": 3,
+      "completed": true
+    },
+    {
+      "id": 3004,
+      "title": "Flexbox & Grid",
+      "order": 4,
+      "completed": true
+    },
+    {
+      "id": 3005,
+      "title": "Responsive Design",
+      "order": 5,
+      "completed": true
+    },
+    {
+      "id": 3006,
+      "title": "JavaScript Basics",
+      "order": 6,
+      "completed": true
+    },
+    {
+      "id": 3007,
+      "title": "DOM Manipulation",
+      "order": 7,
+      "completed": true
+    },
+    {
+      "id": 3008,
+      "title": "ES6+ Features",
+      "order": 8,
+      "completed": false
+    },
+    {
+      "id": 3009,
+      "title": "Async JavaScript",
+      "order": 9,
+      "completed": false
+    },
+    {
+      "id": 3010,
+      "title": "TypeScript",
+      "order": 10,
+      "completed": false
+    },
+    {
+      "id": 3011,
+      "title": "React Basics",
+      "order": 11,
+      "completed": false
+    },
+    {
+      "id": 3012,
+      "title": "React State & Hooks",
+      "order": 12,
+      "completed": false
+    },
+    {
+      "id": 3013,
+      "title": "Routing",
+      "order": 13,
+      "completed": false
+    },
+    {
+      "id": 3014,
+      "title": "Forms & Validation",
+      "order": 14,
+      "completed": false
+    },
+    {
+      "id": 3015,
+      "title": "Node.js Basics",
+      "order": 15,
+      "completed": false
+    },
+    {
+      "id": 3016,
+      "title": "Express APIs",
+      "order": 16,
+      "completed": false
+    },
+    {
+      "id": 3017,
+      "title": "REST Design",
+      "order": 17,
+      "completed": false
+    },
+    {
+      "id": 3018,
+      "title": "SQL Databases",
+      "order": 18,
+      "completed": false
+    },
+    {
+      "id": 3019,
+      "title": "ORMs",
+      "order": 19,
+      "completed": false
+    },
+    {
+      "id": 3020,
+      "title": "Authentication",
+      "order": 20,
+      "completed": false
+    },
+    {
+      "id": 3021,
+      "title": "Authorization",
+      "order": 21,
+      "completed": false
+    },
+    {
+      "id": 3022,
+      "title": "Testing",
+      "order": 22,
+      "completed": false
+    },
+    {
+      "id": 3023,
+      "title": "Docker",
+      "order": 23,
+      "completed": false
+    },
+    {
+      "id": 3024,
+      "title": "CI/CD",
+      "order": 24,
+      "completed": false
+    },
+    {
+      "id": 3025,
+      "title": "Cloud Deployment",
+      "order": 25,
+      "completed": false
+    },
+    {
+      "id": 3026,
+      "title": "Performance",
+      "order": 26,
+      "completed": false
+    },
+    {
+      "id": 3027,
+      "title": "Security Best Practices",
+      "order": 27,
+      "completed": false
+    },
+    {
+      "id": 3028,
+      "title": "Capstone Project",
+      "order": 28,
+      "completed": false
+    }
+  ]
+}
